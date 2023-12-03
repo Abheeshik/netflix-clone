@@ -6,7 +6,7 @@ const List = ({ title, param }) => {
 
   useEffect(() => {
     fetchData(param).then(res => setList(res.data.results));
-  }, []);
+  }, [param]);
 
   console.log(list);
 
