@@ -85,6 +85,10 @@
       border: 0;
       margin-bottom: 20px;
       color: #fff;
+
+      &::placeholder {
+        color: #fff;
+      }
     }
   }
   .shadow{

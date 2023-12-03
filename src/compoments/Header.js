@@ -21,7 +21,7 @@ const Header = () => {
                 <option>English</option>
                 <option>Hindi</option>
               </select>
-              <button className="btn btn-danger" onClick={ClickHandler}>Signin</button>
+              <button className="btn btn-danger" onClick={ClickHandler}>Sign In</button>
             </form>
           </div>
         </div>
