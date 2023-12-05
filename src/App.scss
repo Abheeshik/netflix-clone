@@ -23,6 +23,8 @@
 .home-banner{
   height: 100vh;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
   h1{
     font-size: 3.125rem;
   }
@@ -38,6 +40,7 @@
   }
   img{
     max-width: 100%;
+    position: relative;
   }
   .our-story{
     position: absolute;
@@ -47,8 +50,11 @@
     width: 600px;
     left: calc(50% - 300px);
     z-index: 1;
+    text-align: center;
+    margin-bottom: 20px;
   }
   .input-group{
+    
     input{
       height: 54px;
       padding: .2rem 1rem;
