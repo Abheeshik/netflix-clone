@@ -34,7 +34,7 @@ function App() {
             <React.Fragment>
             <Header/>
             <Banner/>
-            <List title="Netflix Originals" param="originals"/>
+            <List title="Netflix Original" param="originals"/>
             <List title="Trending Now" param="trending"/>
             <List title="Now Playing" param="now_playing"/>
             <List title="Popular" param="popular"/>
