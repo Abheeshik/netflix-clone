@@ -39,7 +39,7 @@ function App() {
             <List title="Now Playing" param="now_playing"/>
             <List title="Popular" param="popular"/>
             <List title="Top Rated" param="top_rated"/>
-            <List title="Upcoming movies" param="upcoming"/>
+            <List title="Upcoming movie" param="upcoming"/>
           </React.Fragment>
           }/>
 
