@@ -38,8 +38,8 @@ function App() {
             <List title="Trending Now" param="trending"/>
             <List title="Now Playing" param="now_playing"/>
             <List title="Popular" param="popular"/>
-            <List title="Top Rated" param="top_rated"/>
-            <List title="Upcoming movie" param="upcoming"/>
+            <List title="Action Thriller" param="top_rated"/>
+            <List title="Upcoming movies" param="upcoming"/>
           </React.Fragment>
           }/>
 
