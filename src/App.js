@@ -36,10 +36,10 @@ function App() {
             <Banner/>
             <List title="Netflix Original" param="originals"/>
             <List title="Trending Now" param="trending"/>
-            <List title="Now Playing" param="now_playing"/>
-            <List title="Popular" param="popular"/>
             <List title="Action Thriller" param="top_rated"/>
             <List title="Upcoming movies" param="upcoming"/>
+            <List title="Now Playing" param="now_playing"/>
+            <List title="Popular" param="popular"/>
           </React.Fragment>
           }/>
 
