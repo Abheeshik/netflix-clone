@@ -37,7 +37,7 @@ function App() {
             <List title="Netflix Original" param="originals"/>
             <List title="Trending Now" param="trending"/>
             <List title="Action Thriller" param="top_rated"/>
-            <List title="Upcoming movie" param="upcoming"/>
+            <List title="Upcoming movies" param="upcoming"/>
             <List title="Now Playing" param="now_playing"/>
             <List title="Popular" param="popular"/>
           </React.Fragment>
